@@ -1,8 +1,9 @@
 import os
 import hashlib as hl
 
-Root="."
-WorkDir='..' # where to find files
+Root = "."
+WorkDir = '..' # where to find files
+OutDir = "C:\\GIT\\priv_data\\"
 
 List=[]
 wList=[]
